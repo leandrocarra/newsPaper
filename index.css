@@ -54,6 +54,9 @@ table {
   margin: 0 auto;
   padding: 16px;
 }
+.news__main i img{
+  width: 24px;
+}
 .news__top {
   height: 88px;
   background-color: #0086FF;
@@ -133,12 +136,13 @@ table {
 }
 .news__text {
   line-height: 25px;
-  height: 84px;
+  height: 77px;
   font-weight: bold;
   font-size: 14px;
 }
 .news__title {
-  font-size: 14px;
+  display: flex;
+  align-items: center;
 }
 .news__icon {
   margin-right: 8px;
