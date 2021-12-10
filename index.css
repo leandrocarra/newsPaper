@@ -312,6 +312,9 @@ table {
 .tech_three_image {
   background-image: url(assets/tech_three_image.jpeg);
 }
+.tech_four_image {
+  background-image: url(assets/tech_four_image.jpeg);
+}
 .geek__img-one {
   background-image: url(assets/geek_one.jpg);
 }
