@@ -66,6 +66,7 @@ table {
   height: 88px;
   background-color: #0086FF;
   text-align: center;
+  display: none;
 }
 .news__top  img{
   width: auto;
