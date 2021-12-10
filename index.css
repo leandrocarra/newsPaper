@@ -165,7 +165,7 @@ table {
   background-position: center center;
   background-size: cover;
   width: auto;
-
+  background-repeat: no-repeat;
 }
 
 .linha {
@@ -310,4 +310,7 @@ table {
 }
 .tech_three_image {
   background-image: url(assets/tech_three_image.jpeg);
+}
+.geek__img-one {
+  background-image: url(assets/geek_one.jpg);
 }
