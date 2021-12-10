@@ -315,6 +315,12 @@ table {
 .tech_four_image {
   background-image: url(assets/tech_four_image.jpeg);
 }
+.tech_five_image {
+  background-image: url(assets/tech_five_image.jpeg);
+}
+.tech_six_image {
+  background-image: url(assets/tech_six_image.jpeg);
+}
 .geek__img-one {
   background-image: url(assets/geek_one.jpg);
 }
